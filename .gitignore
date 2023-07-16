@@ -479,3 +479,4 @@ $RECYCLE.BIN/
 #non defaults
 .vscode
 abandoned-app
+secrets.txt
